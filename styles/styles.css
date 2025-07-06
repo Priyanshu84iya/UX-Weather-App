@@ -166,3 +166,38 @@ p::first-letter {
   background-color: #000;
   color: #fff;
 }
+
+/* Floating Buy Me a Coffee Button */
+.floating-coffee-btn {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  width: auto;
+  height: 45px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+  transition: all 0.3s ease;
+  z-index: 1000;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 3px 15px rgba(0, 0, 0, 0.15);
+}
+
+.coffee-logo {
+  height: 45px;
+  width: auto;
+  border-radius: 12px;
+  transition: all 0.3s ease;
+}
+
+.floating-coffee-btn:hover {
+  transform: translateY(-3px) scale(1.05);
+  box-shadow: 0 6px 25px rgba(0, 0, 0, 0.25);
+  text-decoration: none;
+}
+
+.floating-coffee-btn:active {
+  transform: translateY(-1px) scale(1.02);
+}
