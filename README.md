@@ -2,7 +2,7 @@
 
 A beautiful, interactive weather application built with modern web technologies. Get real-time weather information for any city worldwide with an elegant user interface.
 
-![Weather App Screenshot](screenshot.png)
+![Weather App Screenshot](Screenshot.png)
 
 ## ✨ Features
 
@@ -23,7 +23,7 @@ Check out the live demo: [UX Weather App](https://your-demo-link.com)
 ## 📸 Screenshots
 
 ### Main Interface
-![Main Interface](screenshot.png)
+![Main Interface](Screenshot.png)
 
 ### Weather Details
 - Real-time temperature display
