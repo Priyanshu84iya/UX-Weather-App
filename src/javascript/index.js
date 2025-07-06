@@ -271,6 +271,6 @@ shareWeatherButton.addEventListener("click", shareWeather);
 let form = document.querySelector("#city-form");
 form.addEventListener("submit", handleSubmit);
 
-search("Hokkaido");
+search("Noida");
 
 displayForecast(lastForecastResponse, true);
