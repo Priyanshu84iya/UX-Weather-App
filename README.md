@@ -134,7 +134,7 @@ This project is open source and available under the [MIT License](LICENSE).
 **Pry Uchiha** 🍵
 
 - GitHub: [@Priyanshu84iya](https://github.com/Priyanshu84iya)
-- Buy me a coffee: [coff.ee/priyanshu6ov](https://coff.ee/priyanshu6ov)
+- Buy me a coffee: [coff.ee/priyanshu6o](https://coff.ee/priyanshu6o)
 
 ## 🙏 Acknowledgments
 
